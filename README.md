@@ -1,2 +1,2 @@
 # tofuChatBot
-ChatBot that is taught by writing prompts by users, provides answers based on feedback
+Tofu ChatBot is built by writing prompts from users, provides answers based on feedback
